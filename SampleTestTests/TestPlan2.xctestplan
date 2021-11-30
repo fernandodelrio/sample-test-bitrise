@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "958EC088-4752-424C-B100-3314CB9C1E29",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:SampleTest.xcodeproj",
+        "identifier" : "0B6AF0F02755757700D31574",
+        "name" : "SampleTestTests"
+      }
+    }
+  ],
+  "version" : 1
+}

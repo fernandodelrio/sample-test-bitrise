@@ -42,6 +42,8 @@
 		0B6AF0F52755757700D31574 /* SampleTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleTestTests.swift; sourceTree = "<group>"; };
 		0B6AF0FB2755757700D31574 /* SampleTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B6AF0FF2755757800D31574 /* SampleTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleTestUITests.swift; sourceTree = "<group>"; };
+		0B6AF10E27565AED00D31574 /* TestPlan1.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = TestPlan1.xctestplan; sourceTree = "<group>"; };
+		0B6AF10F27565B0800D31574 /* TestPlan2.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = TestPlan2.xctestplan; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,8 @@
 		0B6AF0F42755757700D31574 /* SampleTestTests */ = {
 			isa = PBXGroup;
 			children = (
+				0B6AF10F27565B0800D31574 /* TestPlan2.xctestplan */,
+				0B6AF10E27565AED00D31574 /* TestPlan1.xctestplan */,
 				0B6AF0F52755757700D31574 /* SampleTestTests.swift */,
 			);
 			path = SampleTestTests;
